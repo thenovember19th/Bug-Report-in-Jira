@@ -50,6 +50,8 @@ When a valid user logs in with correct credentials, the system should display a 
 
 Bug evidence is attached in the repository under the /screenshots folder.
 
+![Login Bug Screenshot](Screenshots/SS.png)
+
 ## Environment
 
 **App Version**: v1.0.0
